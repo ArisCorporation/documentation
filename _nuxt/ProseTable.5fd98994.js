@@ -1,0 +1,1 @@
+import{k as t,b as _,c as a,e as s,Y as n}from"./entry.2c5cdfea.js";const o={},r={class:"table-wrapper"};function c(e,d){return _(),a("div",r,[s("table",null,[n(e.$slots,"default",{},void 0,!0)])])}const u=t(o,[["render",c],["__scopeId","data-v-0da14567"]]);export{u as default};
